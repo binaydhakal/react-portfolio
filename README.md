@@ -1,4 +1,8 @@
+[![binaydhakal's releases](https://yanib.dev/card/binaydhakal/svg?theme=light&style=default)](https://yanib.dev/u/binaydhakal)
+
+
 # Clever Programmer ReactJS Portfolio Template      
+
 
 ## 👇 WATCH THIS FIRST 👇
 ## https://tinyurl.com/customizeReactPortfolio
